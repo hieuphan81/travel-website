@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Travel Website</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>My Favorite Travel Destinations</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Top 3 Places I Want to Visit</h2>
+            <ul>
+                <li>Japan</li>
+                <li>France</li>
+                <li>Canada</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Beautiful Places</h2>
+        
+            <img src="fuji.jpg" width="300" alt="Mount Fuji">
+        
+            <img src="eiffel.jpg" width="300" alt="Eiffel Tower">
+        
+            <img src="niagara.jpg" width="300" alt="Niagara Falls">
+        </section>
+
+        <section>
+            <h2>Learn More</h2>
+            <p>
+                Visit
+                <a href="https://www.lonelyplanet.com" target="_blank">
+                    Lonely Planet
+                </a>
+                for more travel inspiration.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by Your Name - 2026</p>
+    </footer>
+
+</body>
+
+</html>
